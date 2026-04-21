@@ -8,7 +8,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Concluído-639922?style=for-the-badge)
 
-
 ---
 
 ## 📖 Sobre o projeto
